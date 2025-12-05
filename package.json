@@ -1,0 +1,11 @@
+{
+  "name": "pm-dev-translator",
+  "version": "1.0.0",
+  "description": "CLI translator between product and engineering viewpoints using OpenRouter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
